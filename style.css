@@ -1,0 +1,33 @@
+body{
+    background-color: bisque;
+    padding-bottom:50px;
+}
+.tfont{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.s{
+    height: 900px;
+    background-repeat: no-repeat;
+}
+.bb{
+    margin: 30px;
+}
+.cont{
+    text-align: center;
+    margin-top: 190px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.iii{
+    height: 400px;
+    align-items: center;
+    margin-left: 130px;
+    margin-top: 50px;
+}
+.ho{ 
+    height: 450px; 
+    width: 100%;
+}
+.ho:hover{
+    zoom: 105%;
+}
